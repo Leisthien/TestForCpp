@@ -1,0 +1,20 @@
+[
+{
+  "directory": "D:/Study/TestProc/HelloPro/builds/Qt-6.8.3-win32-msvc-x86_64_from_PATH_VSProfessional_2022_Release_amd64/Debug",
+  "command": "D:\\CPPIDE\\VisualStudio\\2022\\Professional\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 -ID:\\Study\\TestProc\\HelloPro\\builds\\Qt-6.8.3-win32-msvc-x86_64_from_PATH_VSProfessional_2022_Release_amd64\\Debug\\HelloPro_autogen\\include -external:ID:\\CPPIDE\\Qt6\\6.8.3\\msvc2022_64\\include\\QtCore -external:ID:\\CPPIDE\\Qt6\\6.8.3\\msvc2022_64\\include -external:ID:\\CPPIDE\\Qt6\\6.8.3\\msvc2022_64\\mkspecs\\win32-msvc -external:ID:\\CPPIDE\\Qt6\\6.8.3\\msvc2022_64\\include\\QtWidgets -external:ID:\\CPPIDE\\Qt6\\6.8.3\\msvc2022_64\\include\\QtGui -external:W0 /DWIN32 /D_WINDOWS /GR /EHsc -DQT_QML_DEBUG -DQT_DECLARATIVE_DEBUG /Zi /Ob0 /Od /RTC1 -std:c++17 -MDd -Zc:__cplusplus -permissive- -utf-8 /FoCMakeFiles\\HelloPro.dir\\HelloPro_autogen\\mocs_compilation.cpp.obj /FdCMakeFiles\\HelloPro.dir\\ /FS -c D:\\Study\\TestProc\\HelloPro\\builds\\Qt-6.8.3-win32-msvc-x86_64_from_PATH_VSProfessional_2022_Release_amd64\\Debug\\HelloPro_autogen\\mocs_compilation.cpp",
+  "file": "D:\\Study\\TestProc\\HelloPro\\builds\\Qt-6.8.3-win32-msvc-x86_64_from_PATH_VSProfessional_2022_Release_amd64\\Debug\\HelloPro_autogen\\mocs_compilation.cpp",
+  "output": "CMakeFiles\\HelloPro.dir\\HelloPro_autogen\\mocs_compilation.cpp.obj"
+},
+{
+  "directory": "D:/Study/TestProc/HelloPro/builds/Qt-6.8.3-win32-msvc-x86_64_from_PATH_VSProfessional_2022_Release_amd64/Debug",
+  "command": "D:\\CPPIDE\\VisualStudio\\2022\\Professional\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 -ID:\\Study\\TestProc\\HelloPro\\builds\\Qt-6.8.3-win32-msvc-x86_64_from_PATH_VSProfessional_2022_Release_amd64\\Debug\\HelloPro_autogen\\include -external:ID:\\CPPIDE\\Qt6\\6.8.3\\msvc2022_64\\include\\QtCore -external:ID:\\CPPIDE\\Qt6\\6.8.3\\msvc2022_64\\include -external:ID:\\CPPIDE\\Qt6\\6.8.3\\msvc2022_64\\mkspecs\\win32-msvc -external:ID:\\CPPIDE\\Qt6\\6.8.3\\msvc2022_64\\include\\QtWidgets -external:ID:\\CPPIDE\\Qt6\\6.8.3\\msvc2022_64\\include\\QtGui -external:W0 /DWIN32 /D_WINDOWS /GR /EHsc -DQT_QML_DEBUG -DQT_DECLARATIVE_DEBUG /Zi /Ob0 /Od /RTC1 -std:c++17 -MDd -Zc:__cplusplus -permissive- -utf-8 /FoCMakeFiles\\HelloPro.dir\\main.cpp.obj /FdCMakeFiles\\HelloPro.dir\\ /FS -c D:\\Study\\TestProc\\HelloPro\\main.cpp",
+  "file": "D:\\Study\\TestProc\\HelloPro\\main.cpp",
+  "output": "CMakeFiles\\HelloPro.dir\\main.cpp.obj"
+},
+{
+  "directory": "D:/Study/TestProc/HelloPro/builds/Qt-6.8.3-win32-msvc-x86_64_from_PATH_VSProfessional_2022_Release_amd64/Debug",
+  "command": "D:\\CPPIDE\\VisualStudio\\2022\\Professional\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 -ID:\\Study\\TestProc\\HelloPro\\builds\\Qt-6.8.3-win32-msvc-x86_64_from_PATH_VSProfessional_2022_Release_amd64\\Debug\\HelloPro_autogen\\include -external:ID:\\CPPIDE\\Qt6\\6.8.3\\msvc2022_64\\include\\QtCore -external:ID:\\CPPIDE\\Qt6\\6.8.3\\msvc2022_64\\include -external:ID:\\CPPIDE\\Qt6\\6.8.3\\msvc2022_64\\mkspecs\\win32-msvc -external:ID:\\CPPIDE\\Qt6\\6.8.3\\msvc2022_64\\include\\QtWidgets -external:ID:\\CPPIDE\\Qt6\\6.8.3\\msvc2022_64\\include\\QtGui -external:W0 /DWIN32 /D_WINDOWS /GR /EHsc -DQT_QML_DEBUG -DQT_DECLARATIVE_DEBUG /Zi /Ob0 /Od /RTC1 -std:c++17 -MDd -Zc:__cplusplus -permissive- -utf-8 /FoCMakeFiles\\HelloPro.dir\\widget.cpp.obj /FdCMakeFiles\\HelloPro.dir\\ /FS -c D:\\Study\\TestProc\\HelloPro\\widget.cpp",
+  "file": "D:\\Study\\TestProc\\HelloPro\\widget.cpp",
+  "output": "CMakeFiles\\HelloPro.dir\\widget.cpp.obj"
+}
+]
